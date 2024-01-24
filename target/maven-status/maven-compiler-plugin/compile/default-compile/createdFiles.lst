@@ -1,0 +1,9 @@
+com\anarghya\ayurveda\repository\MedicineRepository.class
+com\anarghya\ayurveda\controller\MedicineController.class
+com\anarghya\ayurveda\exception\MedicineNotFoundException.class
+com\anarghya\ayurveda\services\MedicineServices.class
+com\anarghya\ayurveda\services\MedicineServicesImplementation.class
+com\anarghya\ayurveda\SpringBootMedicineServicesApplication.class
+com\anarghya\ayurveda\model\Medicine.class
+com\anarghya\ayurveda\client\FeignServiceUtil.class
+com\anarghya\ayurveda\utils\EmailUtils.class

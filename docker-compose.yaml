@@ -1,0 +1,11 @@
+
+version: '3'
+services:
+  your-app:
+    image: medicine
+    ports:
+      - "2024:2024"
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://host.docker.internal:3306/china_ayur
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: root
